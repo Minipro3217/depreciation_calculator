@@ -1,6 +1,3 @@
-#Program name: Depreciation assignment
-#Student name: Mina Abdelnoor
-#Option Group: -
 #Input validation which prints an error 
 #and reruns the while loop if a string to integer
 #conversion failed
